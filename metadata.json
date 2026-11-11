@@ -1,0 +1,6 @@
+{
+  "name": "CRE Underwriting & Credit Risk Engine",
+  "description": "Institutional CRE loan underwriting, Monte Carlo stress testing with Cholesky shocks, rate cap breach analysis, Cox survival default modeling, Excel reconciliation, and Investment Committee memo generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
